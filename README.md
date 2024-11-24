@@ -1,0 +1,1 @@
+# You input an image and a caption and it puts the caption onto the image
